@@ -21,10 +21,10 @@ export class Rectagulo{
         this.altura =  altura
     }
 
-    public calculaArea(base:number, altura:number){
-        return base * altura
+    public calculaArea():number{
+        return this.base * this.altura
     }
-    public calcularPerimetro(base:number, altura:number){
-        return 2*base + 2*altura
+    public calcularPerimetro():number{
+        return (2*this.base) + (2*this.altura)
     }
 }
