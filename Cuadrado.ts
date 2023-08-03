@@ -17,5 +17,4 @@ export class Cuadrado{
         return 4 * this.lado;
       }
 
-
 }
