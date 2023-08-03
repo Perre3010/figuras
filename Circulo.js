@@ -14,6 +14,3 @@ export class Circulo{
     hallar_area():number{
         let resultado= 3.1416 * this.radio*this.radio
         return resultado
-    }
-        
-}
