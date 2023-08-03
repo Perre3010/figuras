@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 export class Circulo{
     private radio: number;
 
@@ -17,3 +18,5 @@ export class Circulo{
     }
         
 }
+=======
+>>>>>>> 995470b9e1dc7c4d5b4e5a0252fe1a1604d51d6d
